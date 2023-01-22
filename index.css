@@ -7,8 +7,9 @@ color: #fff
 
 
 body {
-background: url(./images/background.jpg) no-repeat center center fixed;
 background-size: cover;
+overflow: hidden;
+height: 100%;
 }
 
 #vanta {
@@ -64,7 +65,7 @@ p {
   background-color: #BAD7E9;
   color: #2B3467;
   padding: 15px;
-
+  margin-bottom: -30px;
   align-items: left;
   text-align: left;
   justify-content: center;
